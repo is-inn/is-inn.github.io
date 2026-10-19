@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.zarilab.zombieface",
       "sha256_cert_fingerprints": [
-        "DC:AC:B3:20:17:62:DA:E6:39:CA:3C:39:EB:E7:2A:85:28:52:51:A6:8D:05:08:98:E6:9E:B4:EA:AE:27:2B:28"
+        "DC:AC:B3:20:17:62:DA:E6:39:CA:3C:39:EB:E7:2A:85:28:52:51:A6:8D:05:08:98:E6:9E:B4:EA:AE:27:2B:28",
+        "43:32:DE:48:0B:05:6C:44:16:EA:76:C0:17:B1:80:FC:ED:A8:7B:99:F4:72:BE:D9:EF:C1:CD:C1:44:95:6E:F9"
       ]
     }
   }
