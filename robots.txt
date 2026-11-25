@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://is-inn.github.io/sitemap.xml
+Sitemap: https://is-inn.github.io/manabi-lp/sitemap.xml
